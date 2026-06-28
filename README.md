@@ -18,7 +18,7 @@ Create a Repository: Go to GitHub and create a new repository (e.g., ugc-tracker
 Add the File: Create a new file in the repository named index.html and paste the tracker code into it. Commit the file.
 Enable Pages: Go to your repository's Settings > Pages.
 Configure Source: Under the "Source" section, select the main (or master) branch and click Save.
-Access Your Tracker: Wait a minute or two, and your tracker will be live at https://yourusername.github.io/ugc-tracker/.
+Access Your Tracker: Wait a minute or two, and your tracker will be live at https://ryanross949-svg.github.io/ugc-tracker/.
 (Tip: Bookmark this URL on your phone or computer browser for easy daily access!)
 
 🛠️ Tech Stack
